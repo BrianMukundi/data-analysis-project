@@ -1,0 +1,13 @@
+Employee ID,Name,Department,Salary (USD),Hours Worked,Projects Completed,Performance Rating,Join Date
+107,Frank Miller,IT,"$72,000",135,9,5,12/1/2021
+105,Charlie Davis,IT,"$70,000",130,8,4.9,9/12/2021
+102,Jane Smith,Marketing,"$60,000",140,7,4.8,11/10/2021
+110,Isabella Moore,Marketing,"$59,000",140,7,4.7,2/14/2022
+106,Emma Wilson,Marketing,"$58,000",145,6,4.3,5/18/2022
+103,Alice Johnson,HR,"$55,000",150,6,4.2,3/5/2022
+108,Grace Lee,HR,"$53,000",155,5,4.1,4/22/2022
+104,Bob Brown,Sales,"$52,000",170,4,4,7/20/2022
+109,Henry Taylor,Sales,"$51,000",165,3,3.8,8/30/2022
+101,John Doe,Sales,"$50,000",160,5,4.5,1/15/2022
+,,,,,,3.8,
+,,,"$58,000",1490,,5,
