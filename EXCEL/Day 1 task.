@@ -1,0 +1,24 @@
+Week 1: Excel Basics and Navigation
+Tasks:
+
+1.Data Entry and Formatting:
+
+Enter the sample data into Excel.
+
+Format the table: add borders, bold headers, and align text.
+
+Format the "Salary" column as currency and the "Join Date" column as a date.
+
+2. Basic Formulas:
+
+Calculate the Total Hours Worked for all employees using SUM.
+
+Calculate the Average Salary using AVERAGE.
+
+Find the Highest and Lowest performance ratings using MAX and MIN.
+
+3. Sorting and Filtering:
+
+Sort the data by "Salary" in descending order.
+
+Filter the data to show only employees in the "Sales" department.
