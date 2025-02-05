@@ -1,0 +1,98 @@
+Tasks:
+
+1.Data Entry and Formatting:
+
+Enter the sample data into Excel.
+
+Format the table: add borders, bold headers, and align text.
+
+Format the "Salary" column as currency and the "Join Date" column as a date.
+
+2.Basic Formulas:
+
+Calculate the Total Hours Worked for all employees using SUM.
+
+Calculate the Average Salary using AVERAGE.
+
+Find the Highest and Lowest performance ratings using MAX and MIN.
+
+3.Sorting and Filtering:
+
+Sort the data by "Salary" in descending order.
+
+Filter the data to show only employees in the "Sales" department.
+
+Intermediate Excel Skills
+Tasks:
+
+1.Logical Functions:
+
+Add a column called Bonus Eligibility:
+
+If Performance Rating >= 4.5, write "Eligible"; otherwise, write "Not Eligible". Use the IF function.
+
+2.Text Functions:
+
+Add a column called Full Name:
+
+Combine "Name" and "Department" using CONCATENATE or &.
+
+Extract the first name from the "Name" column using LEFT and SEARCH.
+
+3.Lookup Functions:
+
+Add a column called Years of Service:
+
+Calculate the number of years since the "Join Date" using TODAY() and simple subtraction.
+
+Use VLOOKUP to find the salary of a specific employee by their "Employee ID".
+
+Advanced Excel Features
+Tasks:
+
+1.Pivot Tables:
+
+Create a Pivot Table to summarize:
+
+Total salary by department.
+
+Average performance rating by department.
+
+Add a Pivot Chart to visualize the data.
+
+2.Data Validation:
+
+Create a drop-down list for the "Department" column to allow only valid department names (Sales, Marketing, HR, IT).
+
+3.Conditional Formatting:
+
+Highlight employees with a performance rating above 4.5 in green.
+
+Highlight employees with less than 5 projects completed in red.
+
+Real-World Projects and Automation
+Tasks:
+
+1.Project: Employee Performance Dashboard:
+
+Create a dashboard that includes:
+
+Total employees, total salary, and average performance rating.
+
+A bar chart showing salary distribution by department.
+
+A pie chart showing the percentage of employees in each department.
+
+2.Macros:
+
+Record a macro to format the table (add borders, bold headers, etc.).
+
+Run the macro on a new dataset.
+
+3.Power Query:
+
+Import the dataset into Power Query.
+
+Clean and transform the data (e.g., remove duplicates, change data types).
+
+Load the cleaned data back into Excel.
